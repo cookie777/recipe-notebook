@@ -3,8 +3,12 @@
 
 - **Don't fully rely on ChatGPT:**
   - Even if the beginning is right, verify details.
+- **Scope: Start with a small size:**
+  - Try to start with a small amount (e.g., half size) compared to the recipe.
+  - If you fail, you won't have to deal with as much waste.
 - **Scale and prepare all ingredients before starting to cook:**
-  - **Why:** Once you start cooking, You get lazy. You will skip scaling ingredients.
+  - Why: Once you start cooking, you may get lazy and skip scaling ingredients.
+  - Make sure to use a scale or proper measuring cups and teaspoons.
 - **Butter:**
   - Doesn't need to be fully melted.
   - It will naturally soften as you mix.
