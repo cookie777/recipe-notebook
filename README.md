@@ -16,14 +16,13 @@
 - **Sugar:**
   - Never opt out of using borwn sugar.
   - Don't use 100% white sugar; brown sugar is essential!.
-  - Total amount of the sugar can be reduced by 70%-80% if desired.
+  - Total amount of the sugar can be reduced by 20%-30% if desired.
   - Following the recipe exactly can make it too sweet.
-  - Less than 70% reduction may affect texture.
+  - More than 30% reduction may affect texture.
   - Ensure there are no lumps in the sugar before mixing.
   - Brown sugar tends to have lumps; break them up.
 - **Chocolate Chips:**
   - Can be adjusted from 0%-100%.
-  - 100% might be too much.
 - **Containers:**
   - Wipe containers completely dry.
   - Extra water can ruin the texture.
