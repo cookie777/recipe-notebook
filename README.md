@@ -1,0 +1,35 @@
+
+# Cookie
+
+- **Don't fully rely on ChatGPT:**
+  - Even if the beginning is right, verify details.
+- **Scale and prepare all ingredients before starting to cook:**
+  - **Why:** Once you start cooking, You get lazy. You will skip scaling ingredients.
+- **Butter:**
+  - Doesn't need to be fully melted.
+  - It will naturally soften as you mix.
+  - Cut into slices or pieces for easier mixing is more important.
+- **Sugar:**
+  - Never opt out of using borwn sugar.
+  - Don't use 100% white sugar; brown sugar is essential!.
+  - Total amount of the sugar can be reduced by 70%-80% if desired.
+  - Following the recipe exactly can make it too sweet.
+  - Less than 70% reduction may affect texture.
+  - Ensure there are no lumps in the sugar before mixing.
+  - Brown sugar tends to have lumps; break them up.
+- **Chocolate Chips:**
+  - Can be adjusted from 0%-100%.
+  - 100% might be too much.
+- **Containers:**
+  - Wipe containers completely dry.
+  - Extra water can ruin the texture.
+- **Dough:**
+  - If too slimy, it may indicate too much sugar or butter.
+  - Portion the dough smaller than you think; large dough balls spread too much.
+- **Preheating the Oven:**
+  - Do not start baking until the oven buzzer indicates preheating is complete.
+  - Ensure you understand the Fahrenheit/Celsius setting on your oven.
+- **Clothing:**
+  - Wear clothes that can get dirty.
+- **Clean Up:**
+  - Use baking time to clean up; it will save time.
