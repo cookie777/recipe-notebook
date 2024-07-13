@@ -21,8 +21,10 @@
   - More than 30% reduction may affect texture.
   - Ensure there are no lumps in the sugar before mixing.
   - Brown sugar tends to have lumps; break them up.
+  - Too less surgar may make cookies too dry. Be careful to adjeust the amount of baking soda less if you make sugar less
 - **Chocolate Chips:**
-  - Can be adjusted from 0%-100%.
+  - Can be adjusted from 50%-100%.
+  - No Chocolate Chips will make cookie too dry. We need some
 - **Containers:**
   - Wipe containers completely dry.
   - Extra water can ruin the texture.
