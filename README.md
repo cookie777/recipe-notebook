@@ -38,3 +38,26 @@
   - Wear clothes that can get dirty.
 - **Clean Up:**
   - Use baking time to clean up; it will save time.
+- **Flow** : to make it crisply 
+  - Butter + suger first
+  - flour is last and gently mix
+ 
+# Crab
+- **Flow**
+  - Put it into water or alchole and kill it
+  - Lightly washig with Scrubber may be good
+  - After that, steam it.
+    - put a small Bowl upside down + water is ok
+    - Steam can be 15 mins
+  - Be careful it's hot
+  - Open the triangle stomache / no sessor needed
+  - Separate stomache. It's hot be careful
+    - Try not to drop crab miso 🤤
+  - Push and remove bottom
+  - Remove sand bags
+
+# Solty Green onion sauce
+- Green onions will shirn eventually, put it a lot. 150g is for 3-4 people. 300 g is ok
+- Green oninos can be very spicy. Put it long in the water
+- Green onions can be watery. Squeeze it a lot after picking up from water
+- Sauce is good to mix first
